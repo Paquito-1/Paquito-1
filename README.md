@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paquito-1
-- 👀 I’m interested in opportunities intersecting computation, the life sciences, pure mathematics, and data analytics
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in opportunities intersecting the life sciences, pure mathematics, and data analytics
+- 🌱 I’m currently working on my Julia programming
 - 💞️ I have a full agenda this year, but am glad to connect and find out about opportunities post undergrad
 - 📫 Feel free to reach out at paquito@mit.edu
 
