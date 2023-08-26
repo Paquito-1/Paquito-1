@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Paquito-1
-- 👀 I’m interested in opportunities intersecting the life sciences, pure mathematics, and data analytics
-- 🌱 I’m currently working on my Julia programming
-- 💞️ I have a full agenda this year, but am glad to connect and find out about opportunities post undergrad
-- 📫 Feel free to reach out at paquito@mit.edu
+- 👀 I’m interested in opportunities related to AI/ML, data analytics, mathematics, programming, or research & science
+- 🌱 I graduated with a degree in mathematics + cognition with computation, minoring in statistics & data science + biology
+- 📫 Feel free to reach out at paquito@alum.mit.edu
 
 <!---
 Paquito-1/Paquito-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
